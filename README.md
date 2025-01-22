@@ -27,7 +27,7 @@ Here's what I'm currently focusing on:
   - My favorite way to unwind is to surf around big tech companies and learn and understand their solutions and Innovations.
 
 ### My Side Learning Guide 📄
-My Road Map: [(https://roadmap.sh/software-architect)]
+My Road Map: https://roadmap.sh/software-architect
 
 ### 🥳 Let's Connect!
 I'm enthusiastic about collaborating with other students and developers and learning from the tech community. Feel free, share resources, or dicuss ideas.
