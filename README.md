@@ -11,7 +11,7 @@ class Bio {
 class Skills {
   List<String> languages = ['Dart', 'JS', 'Python', 'Java', 'C#', 'C++', 'HTML', 'CSS', 'SQL']; 
   List<String> databases = ['Supabase', 'SQL']; 
-  List<String> frameworks = ['Flutter', 'ASP.NET', 'Entity-Framework']; // Add more frameworks/libraries
+  List<String> frameworks = ['Flutter', 'ASP.NET', 'Entity-Framework'];
   List<String> tools = ['Git', 'GitHub', 'VS Code', 'Android Studio', 'Visual-Studio', 'Arc-Broswer', 'SSMS']; 
 }
 
@@ -20,17 +20,17 @@ class Projects {
     {
       'name': 'Meal-Planning',
       'description': 'A beautiful and functional meal web-app crafted for eldery era.',
-      'link': 'https://github.com/adityadev54/Portfolio/tree/main/Web-Apps/Meal-Planner/Meal-Planning'
+      'link': 'https://github.com/adityadev54/Portfolio/tree/main/Web-Apps/Meal-Planner/Meal-Planning',
     },
     {
       'name': 'Food API + Food Web App',
       'description': 'Project done to fetch Food details and make it work through the Web-App.',
-      'link': 'https://github.com/adityadev54/Portfolio/tree/main/APIs/Food%20API' 
+      'link': 'https://github.com/adityadev54/Portfolio/tree/main/APIs/Food%20API',
     }
   ];
 }
 
 ```
 ---
-### My Side Learning Guide 📄
-My Road Map: https://roadmap.sh/software-architect
+## My Guidance
+Road Map: https://roadmap.sh/software-architect
