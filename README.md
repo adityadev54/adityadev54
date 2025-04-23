@@ -31,7 +31,6 @@ class Projects {
 }
 
 ```
----
 ## My Guidance
 
 ``` dart
