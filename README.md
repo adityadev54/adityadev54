@@ -2,11 +2,11 @@
 
 ```dart
 class Bio {
-  String name = 'Aditya Patel'; 
-  String title = 'Computer Programming & Database - Student';
-  String college = 'Spartanburg Community College';
+  String name = 'Aditya Patel';
   String graduate = 'Of 2025';
-  String degree = 'AAS'
+  String degree = 'Earned AAS'
+  String title = 'Of Computer Programming & Database';
+  String college = 'From Spartanburg Community College';
   String website = 'https://github.com/adityadev54/Portfolio'; 
 }
 
