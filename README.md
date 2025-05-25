@@ -3,15 +3,17 @@
 ```dart
 class Bio {
   String name = 'Aditya Patel'; 
-  String title = 'Software Developer - Student';
+  String title = 'Computer Programming & Database - Student';
   String college = 'Spartanburg Community College';
+  String graduate = 'Of 2025';
+  String degree = 'AAS'
   String website = 'https://github.com/adityadev54/Portfolio'; 
 }
 
 class Skills {
-  List<String> languages = ['Dart', 'JS', 'Python', 'Java', 'C#', 'C++', 'HTML', 'CSS', 'SQL']; 
+  List<String> languages = ['Dart(Beginner)', 'JS(Beginner)', 'Python', 'Java(Beginner)', 'C#', 'C++', 'HTML', 'CSS', 'SQL']; 
   List<String> databases = ['Supabase', 'SQL']; 
-  List<String> frameworks = ['Flutter', 'ASP.NET', 'Entity-Framework'];
+  List<String> frameworks = ['Flutter(Beginner)', 'ASP.NET', 'Entity-Framework'];
   List<String> tools = ['Git', 'GitHub', 'VS Code', 'Android Studio', 'Visual-Studio', 'Arc-Broswer', 'SSMS']; 
 }
 
