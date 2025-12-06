@@ -41,6 +41,31 @@ I'm a software developer who graduated with an AAS in 2025, focused on building 
 
    
 ## Experience & Activities
+- Student Full-Stack Developer — Spartanburg Community College
+  - Built and maintained portfolio projects spanning web, mobile, and backend systems as part of coursework and independent study.
+  - Practiced clean architecture and component-driven UI design; emphasized maintainability and readability.
+  - Leveraged Git/GitHub for version control, CI with GitHub Actions, and containerization with Docker for reproducible environments.
+
+- Project Lead & Developer — AI-Powered Meal Planning Website (getmovingmeals.cloud)
+  - Designed and implemented a modern ASP.NET Core 9.0 web app with Tailwind CSS and responsive UI.
+  - Integrated OpenAI API/OpenRouter models to generate AI-driven meal plans tailored to user preferences.
+  - Implemented user authentication using ASP.NET Core Identity and subscription billing with Stripe.
+  - Focused on deployment readiness, reliability, and practical user value.
+
+- Java/JavaFX Application Developer — Cafe POS System
+  - Built a desktop POS application leveraging JavaFX and FXML for an intuitive operator interface.
+  - Applied OOP best practices and introduced database integration concepts for inventory/orders.
+  - Prototyped features like item management, checkout flow, and receipt generation for small cafe use cases.
+
+- Web Developer — Food API Integration (Meal‑Kit)
+  - Integrated third‑party food APIs; implemented data fetching, parsing (JSON), and error handling.
+  - Built a simple frontend that communicates with a backend layer to present results cleanly.
+  - Focused on practical API usage patterns and user‑friendly presentations.
+
+- Portfolio Curator & Maintainer — College Portfolio Collection
+  - Organized a multi‑project repository showcasing breadth across web, APIs, and databases.
+  - Wrote documentation, project overviews, and setup guides to make work reproducible and reviewable.
+  - Used the collection as a vehicle for continuous learning and iteration.
 
 ## My Approach
  ### Practical Solutions
